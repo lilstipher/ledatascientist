@@ -1,2 +1,1 @@
 # ledatascientist
-https://ledatascientist.com
